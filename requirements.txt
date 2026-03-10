@@ -1,0 +1,11 @@
+# AI Hacker Agent - Requirements
+# Free AI Telegram Bot with Multi-Agent System
+
+# Telegram Bot Framework
+python-telegram-bot>=20.7
+
+# Async HTTP Client
+aiohttp>=3.9.1
+
+# Environment Variables
+python-dotenv>=1.0.0
